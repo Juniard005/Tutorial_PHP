@@ -1,0 +1,19 @@
+If-ELseif-Else
+
+If Else adalh Pengkondisian yang menggunakan lebih banyak kondisi dan perlu diperiksa secara berurutan dan details
+
+contohnya begini
+
+Loh Lagi Laper dan Lagi Bingung Karena Makanya Enak-Enak
+
+Karena Ada Sandwich Salad Yang Tinggi Protein
+Dan Disisi Lain Ada Juga Salad Buah Yang Isinya Protein Semua
+Tapi Gue gak suka Protein Dan Malas Punya Badan Sehat
+
+if (lagi_pengen_high_protein) {  
+    echo "Ambil sandwich salad, biar otot lo kekar!";  
+} elseif (suka_buah_segar) {  
+    echo "Salad buah aja, biar seger!";  
+} else {  
+    echo "Masih bingung? Minum air putih dulu, deh.";  
+}  

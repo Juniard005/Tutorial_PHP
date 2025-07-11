@@ -1,0 +1,12 @@
+APA ITU PERCABANGAN?
+
+Percabangan adalah cara membuat program berjalan berbeda tergantung kondisi tertentu 
+(misalnya nilai, status, login, dll).
+
+Pengkondisian Diagi Menjadi 4 Ada 
+- If Else                          
+- If Else Else                     
+- Switch
+- Ternary 
+
+untuk contohnya kalian bisa lihat Folder Masing-Masing

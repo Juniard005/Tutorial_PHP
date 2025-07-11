@@ -1,0 +1,10 @@
+Pengkondisian
+
+Pengkondisian Adlh Struktur Kontrol Yang Memungkinkan loh eksekusi code berbeda berdasarkan Kondisi
+dan Situasi Tertentu
+
+If Else
+If Else adalh Pengkondisian yang menggunakan boolean dan string terhadap suatu kondisi dengan situasy yang tertentu
+
+contohnya bisa dilihat di file if else
+
