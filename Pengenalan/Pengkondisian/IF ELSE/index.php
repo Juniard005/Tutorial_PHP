@@ -38,7 +38,7 @@ echo "<br>";
 // contoh lagi else
 $timothy1 = "LOH DiRUMAH TANGGAL MERAH TANGGAL MERAH";
 
-if ($timothy1 == "LOH DiRUMAH TANGGAL MERAH TANGGAL MERAH LOH DIRUMAH") {
+if ($timothy1 == "LOH DiRUMAH TANGGAL MERAH TANGGAL MERAH YEE") {
     echo "oh oh tanggal merah tanggal merah yee GOBLOK LOH";
 } else {
     echo "Loh Goblok Atau Apa LOH MONYET DARI PLANET MANA?";
