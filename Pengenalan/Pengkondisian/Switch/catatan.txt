@@ -1,0 +1,34 @@
+Switch
+Switch Adalh Pengkondisian Yang Memiliki Banyak Opsi Seperti Vending Machine Yang Menjual Makanan Dan Juga Minuman
+
+Ibaratkan Gini Bro 
+Loh Punya Uang 1 Miliar Duit Itu Bisa Loh Pakai Untuk
+- Beli Kos-Kosan          - Biaya Hidup 2 Tahun
+- Beli Rumah              - Investasi
+- Jalan Sama Cewek        - Beli Kelas
+- Upgrade PC              - Jalan Jalan Ke Bali
+- Jalan Ke Eropa
+
+Contohnya Gini
+
+$pekerjaan = "Fullstack Web3 Developer";
+
+switch ($pekerjaan) {
+    case "Fullstack Web3 Developer":
+        echo "Pekerjaan: Fullstack Web3 Developer";
+        break;
+    case "Backend Developer":
+        echo "Pekerjaan: Backend Developer";
+        break;
+    case "Frontend Developer":
+        echo "Pekerjaan: Frontend Developer";
+        break;
+    case "Koki":
+        echo "Pekerjaan: Koki";
+        break;
+    default:
+        echo "Penganguran";
+        break;
+}
+
+Pasti Outputnya Yang Keluar Adalah Fullstack Web3 Developer

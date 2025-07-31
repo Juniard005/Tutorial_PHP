@@ -1,2 +1,11 @@
 Ternary
-Ternany adalh Pengkondisian yang menggunakan 
+Ternany adalh Pengkondisian yang menggunakan IF ELSE tapi Lebih Singkat Seperti YA Atau TIDAK Menggunakan
+Simbol ? dan :
+
+Ibaratkan Gini Bro
+Loh Punya Uang Cukup 10000 Lebih Milih Nasi Goreng Atau Pizza
+
+$Duit = 10000
+$Makanan =( $Duit >= 20000 ) ? "Nasi Goreng" : "Pizza";
+
+hasil Outputnya Pasti Pizza Simple Padat dan Jelas

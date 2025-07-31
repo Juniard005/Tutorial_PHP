@@ -1,0 +1,26 @@
+Lopping ( Pengulangan )
+Lopping Adalah Teknik Menjalankan Code Berkali dengan Kondisi Yang Udah DiTentukan
+
+Lopping Dibagi Menjadi 4 Ada
+For
+While
+DO While
+Foreach
+
+dan Konsep Konsep Dasar Dari Looping Di Bagi Menjadi 3 Ada
+Inisialisasi
+Pengkondisian Terminasi
+Increment & Decriment
+
+Inisialisasi
+Inisialisasi Itu Apa? Nih Coba Loh Bayangin Ini
+Loh Punya Stopwatch Terus Stopwatch Itu Loh Set Ulang Ke Angka 0 itu Baru Namanya Inisialisasi Simplenya
+Kayak Loh Pasang Ngatur Alarm biar Di Bangunin Jam Berapa
+
+Pengkondisian Terminasi
+Pengkondisian Terminasi Itu Apa? Nih Loh Coba Bayangin Ini
+Loh Lagi Nonton Video Timothy Nihkan Loh Nontonya Sampai Videonya Selesai Terus Kalau Videonya Sudah Selesai Yah
+Loh Berhenti Simplenya Kayak Gitu dan Selesai
+
+
+
